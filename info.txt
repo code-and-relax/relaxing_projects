@@ -1,0 +1,2 @@
+- If tailwind extension dont work, in your directory, you need to use that command.
+---> npx tailwindcss init
