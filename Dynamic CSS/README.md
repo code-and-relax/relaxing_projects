@@ -39,3 +39,9 @@ Then, simply add the `css` attribute to the elements you want to customize in yo
    <script src="https://cdn.tailwindcss.com"></script> <!-- Tailwind CSS -->
    <script src='https://upcdn.io/W142hfw/raw/tailwind_optimized.js'></script>
    ````
+
+## Support me in
+
+    Instagram: https://www.instagram.com/code.and.relax/
+    YouTube: https://www.youtube.com/@code.and_chill
+    TikTok: https://www.tiktok.com/@code.and.chill?lang=en
