@@ -18,7 +18,7 @@ To import the tool, just add the following script to your HTML:
 
 ````html
 <script src='https://upcdn.io/W142hfw/raw/tailwind_optimized.js'></script>
-
+````
 ## How to apply custom styles
 
 To apply custom styles, you must first create a file called `Tags.json` in the same directory as your HTML file. In this file, you can customize your own classes and values.
