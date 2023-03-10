@@ -26,4 +26,4 @@ To apply custom styles, you must first create a file called `Tags.json` in the s
 Then, simply add the `css` attribute to the elements you want to customize in your HTML and add the name of the custom class corresponding to the value of the `css` attribute. The script will automatically apply the custom classes to the corresponding elements - it's that easy!
 
 
-Translated with www.DeepL.com/Translator (free version)
+
