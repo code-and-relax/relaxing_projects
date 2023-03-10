@@ -42,6 +42,6 @@ Then, simply add the `css` attribute to the elements you want to customize in yo
 
 ## Support me in
 
-    Instagram: https://www.instagram.com/code.and.relax/
-    YouTube: https://www.youtube.com/@code.and_chill
-    TikTok: https://www.tiktok.com/@code.and.chill?lang=en
+    [Instagram: ](https://www.instagram.com/code.and.relax/)
+    [Youtube: ](https://www.youtube.com/@code.and_chill)
+    [Tiktok: ](https://www.tiktok.com/@code.and.chill?lang=en)
