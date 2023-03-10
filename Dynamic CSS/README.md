@@ -11,7 +11,27 @@ Then, simply add the `css` attribute to the elements you want to customize in yo
 ## How to use Dynamic CSS Script
 
 1. Create a file called `Tags.json` in the same directory as your HTML file.
-2. Customize your own classes and values in the `Tags.json` file.
+2. Customize your own classes and values in the `Tags.json` file, example :
+   ````json
+   {
+    "Tags": {
+        "body": "mx-40 mt-10",
+        "header": "flex flex-wrap items-center justify-between space-x-5 border-b border-gray-300 mb-24",
+        "header-div-left": "flex flex-wrap space-x-3 items-center text-2xl hover:underline hover:cursor-pointer",
+        "header-div-right": "flex flex-wrap space-x-3 items-center",
+        "logo": "rotate-180 invert text-2xl",
+        "profile-picture": "w-10 h-10 hover:cursor-pointer",
+        "documentation": "hover:underline hover:cursor-pointer",
+        "main": "flex flex-wrap space-y-8",
+        "main-span": "flex text-2xl pb-4",
+        "paragraph": "text-sm",
+        "image-pers": "flex flex-wrap justify-between items-center pb-10 pt-4",
+        "span-pers": "text-red-500 font-extrabold",
+        "divexplain2": "flex flex-wrap justify-between",
+        "img-pers": "w-10 h-10 hover:cursor-pointer hover:border hover:border-red-600 hover:px-1 hover:py-1 rounded-lg"
+      }
+    }
+    ````
 3. Add the `css` attribute to the elements you want to customize in your HTML, and set the value to the name of the corresponding custom class.
 4. Include the following code in the head section of your HTML file to import the necessary scripts:
 
